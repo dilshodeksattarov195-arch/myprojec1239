@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepync",
+        "uuid": 7591353,
+        "checksum": "8bo69"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
